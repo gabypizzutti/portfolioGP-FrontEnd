@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Gabriela",
+        "apellido":"Pizzutti",
+        "edad":35,
+        "precioAsiento": 200,
+        "pagado": true,
+        "asiento": {
+            "numero": 13,
+            "letra": "G",
+            "cargador": false
+        },
+        "historial": [
+        {
+            "origen":"Buenos Aires",
+            "destino":"Chicago",
+            "fecha":"03/03/2023"
+        },
+        {
+            "origen":"Buenos Aires",
+            "destino":"Madrid",
+            "fecha":"15/02/2023"
+        }
+        ]
+    },
+        {
+            "nombre": "Liliana",
+            "apellido":"Slucki",
+            "edad":62,
+            "precioAsiento": 200,
+            "pagado": true,
+            "asiento": {
+                "numero": 11,
+                "letra": "F",
+                "cargador": false
+            }
+        }
+]
